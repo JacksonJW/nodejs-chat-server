@@ -1,7 +1,7 @@
 # nodejs-chat-server
 Node.js WebSockets chat server and client
 
-## How to run the nodejs chat server and connect:
+## How to run the Node.js chat server and connect:
 
 1. Install npm on the command line:
 
