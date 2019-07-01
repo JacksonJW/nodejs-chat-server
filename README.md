@@ -1,4 +1,4 @@
-# nodejs-chat-server
+# Node.js chat server
 Node.js WebSockets chat server and client
 
 ## How to run the Node.js chat server and connect:
