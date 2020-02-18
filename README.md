@@ -27,5 +27,5 @@ npm install socket.io
 node chat_server.js
 ```
 
-5. Connect to the chat server via web browser:
+5. Connect to the chat server as a client via web browser:
 http://localhost:58901/
